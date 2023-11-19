@@ -1,2 +1,2 @@
-discord_install = "sudo pacman -S discord --noconfirm"
-chromium_install = "sudo pacman -S chromium --noconfirm"
+discord_install = "pkexec pacman -S discord --noconfirm"
+chromium_install = "pkexec pacman -S chromium --noconfirm"
